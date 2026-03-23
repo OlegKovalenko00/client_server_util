@@ -1,0 +1,4 @@
+# pattern_id=substring_to_find
+eicar=EICAR-STANDARD-ANTIVIRUS-TEST-FILE
+powershell_download=Invoke-WebRequest
+shell_spawn=/bin/sh
